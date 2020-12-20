@@ -31,11 +31,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: tunne's Github Homepage
-subtitle: Since 2020.12.20.
+subtitle: Since 2020.12.20
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
+  This is the initial site for a ttunee.
+  It will be updated.
+author: SANGSUN PARK
 email: soone930@gmail.com
 avatar: assets/images/avatar.jpg
 
@@ -45,19 +45,19 @@ url: "https://ttunee.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: null
-facebook_url: null
-googleplus_url: null
-instagram_url: null
-linkedin_url: null
-github_url: null
-stackoverflow_url: null
-pinterest_url: null
-slack_url: null
-dribbble_url: null
+twitter_url: 
+facebook_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+github_url: 
+stackoverflow_url: 
+pinterest_url: 
+slack_url: 
+dribbble_url: 
 
 # Google Analytics Tracking ID goes here:
-google_analytics: null
+google_analytics: 
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
